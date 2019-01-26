@@ -3,13 +3,11 @@
 
 
     Reverse Engineering: -
-
       1. https://www.youtube.com/watch?v=a2EkORFcSZo
       2. https://www.youtube.com/watch?v=cATBah30jk0
 
 
     Web Application : -
-
       1. https://www.youtube.com/watch?v=yuiWAoeIIs0
 
       1. Burp
@@ -25,15 +23,14 @@
       3. OWASP 2017
         1. https://www.youtube.com/watch?v=avFR_Af0KGk
         2. https://www.youtube.com/watch?v=2p6twRRXK_o&t=1779s
+   
     Mobile Application :- 
-
       1. https://www.youtube.com/watch?v=EvkdysIM9Ns
       2. https://www.youtube.com/watch?v=bT1-7ZkSdNY
       3. https://www.youtube.com/watch?v=D2VpMqRLnSE
 
 
     Source code :-
-
       1. https://www.youtube.com/watch?v=AGXSjFEraQU
       2. https://www.youtube.com/watch?v=wloYqSjVcp0
       3. https://www.youtube.com/watch?v=L1c4MfSvw18
@@ -45,5 +42,4 @@
 
 
     VoIP :-
-
       1. http://webattacklab.blogspot.in/2017/06/viproy-voip-penetration-testing-and.html

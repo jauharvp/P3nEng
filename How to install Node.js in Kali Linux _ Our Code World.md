@@ -1,19 +1,8 @@
-Our Code World uses cookies to ensure you get the best experience on our
-website. [Learn more](http://ourcodeworld.com/privacy-policy)
 
-Got it!
-
-[![Our Code World
-Logo](How%20to%20install%20Node.js%20in%20Kali%20Linux%20|%20Our%20Code%20World_files/ocw_logo_255.png "Go to homepage")](https://ourcodeworld.com/)
-
-Our Code World
 
 How to install Node.js in Kali Linux
 ====================================
 
-1.  [**](https://ourcodeworld.com/)
-2.  [Articles](https://ourcodeworld.com/articles/)
-3.  [Kali Linux](https://ourcodeworld.com/categories/kali-linux)
 
 **Warning Javascript Disabled:** Our Code World works better with
 Javascript **
@@ -21,12 +10,6 @@ Javascript **
 How to install Node.js in Kali Linux {.text-center}
 ------------------------------------
 
--   **Published :** March 12th 2017
--   **Last modification :** March 12th 2017
--   **** 31.1K views**
--   Actions
-    -   [Listen this article](javascript:void(0);)
-    -   [Report article](javascript:void(0);)
 
 ![How to install Node.js in Kali
 Linux](How%20to%20install%20Node.js%20in%20Kali%20Linux%20|%20Our%20Code%20World_files/articleocw-58c522e4a3df0.jpg)
@@ -207,126 +190,3 @@ sudo dpkg -i node_* Copy snippet
 Happy coding **!
 
 * * * * *
-
-[**E-mail](mailto:?subject=Read%20How%20to%20install%20Node.js%20in%20Kali%20Linux%20in%20Our%20Code%20World&body=https%3A%2F%2Fourcodeworld.com%2Farticles%2Fread%2F410%2Fhow-to-install-node-js-in-kali-linux)
-
-[**Tweet](#)
-
-[**Like](#)
-
-1
-
-[**+1](#)
-
-[**Pin it](#)
-
-[](https://twitter.com/ourcodeworld)
-
-**
-
-Follow Our Code World on Twitter
-
-[](https://www.facebook.com/ourcodeworld)
-
-**
-
-Like Our Code World on Facebook
-
-[](https://www.youtube.com/ourcodeworld)
-
-**
-
-Subscribe to our YouTube Channel
-
-##### This could interest you
-
-##### Become a more social person
-
-Please enable JavaScript to view the [comments powered by
-Disqus.](https://disqus.com/?ref_noscript)
-
-##### Related articles {.card-heading .text-center}
-
--   [](https://ourcodeworld.com/articles/read/825/how-to-hack-an-instagram-account-with-a-dictionary-attack-using-instainsane)
-    How to hack an Instagram account with a dictionary attack using
-    Instainsane Kali Linux • November 18th 2018
--   [](https://ourcodeworld.com/articles/read/824/how-to-solve-kali-linux-cli-error-could-not-get-lock-var-lib-dpkg-lock-open-9-resource-temporarily-unavailable)
-    How to solve Kali Linux CLI error: Could not get lock
-    /var/lib/dpkg/lock – open (9: Resource temporarily unavailable) Kali
-    Linux • November 12th 2018
--   [](https://ourcodeworld.com/articles/read/820/finding-an-username-across-over-75-social-networks-with-userrecon)
-    Finding an username across over 75 social networks with UserRecon
-    Kali Linux • November 10th 2018
--   [](https://ourcodeworld.com/articles/read/817/how-to-install-spotify-on-kali-linux)
-    How to install Spotify on Kali Linux Kali Linux • October 28th 2018
--   [](https://ourcodeworld.com/articles/read/487/how-to-use-the-multiple-tabs-feature-in-the-kali-linux-terminal)
-    How to use the multiple tabs feature in the Kali Linux terminal Kali
-    Linux • July 2nd 2017
-
-##### [Advertise with Our Code World](https://ourcodeworld.com/advertise-with-us) {.card-heading .text-center}
-
-[](https://bestfreehtmlcsstemplates.com/ "Click here for more information")
-
-**
-
-#### Looking for new web templates?
-
-Best Free HTML/CSS Templates
-
-** Find the best free templates here
-
-### Don't forget to follow us on your favorite social network {.card-title}
-
-Enjoying this article? Follow us and don't miss any new content !
-
-[** Follow @ourcodeworld on Twitter](https://twitter.com/ourcodeworld)
-[** Like Our Code World on
-Facebook](https://www.facebook.com/ourcodeworld) [** Subscribe to our
-YouTube
-channel](https://www.youtube.com/ourcodeworld?sub_confirmation=1) [**
-Make a donation](https://www.paypal.me/ourcodeworld) [** Write for
-us](https://ourcodeworld.com/write-for-us "A single person can write about everything, share something with the world now !")
-
-#### Report article {.modal-title}
-
-Thanks for take some of your time to report this article. Before
-continue, please provide some basic information about why this article
-should be reported :
-
-​1) Reasons
-
-Unavailable imagesIt isn't working properly or totallyIt isn't
-understandable
-
-​2) Be more specific with the problem (if you need to. max length 1000
-chars)
-
-Report
-
-Cancel
-
-[Carlos Delgado Our Code World © 2015 - 2019
-**](https://ourcodeworld.com/about)
-
-[Looking for a new template for your next project? Discover Best Free
-HTML/CSS Templates **](https://bestfreehtmlcsstemplates.com/)
-
--   [Homepage](https://ourcodeworld.com/)
--   [Articles](javascript:void(0);)
-    -   [All Articles](https://ourcodeworld.com/articles/)
-    -   [Explore
-        Categories](https://ourcodeworld.com/categories/list/categories)
--   [Android Free Apps](javascript:void(0);)
-    -   [Our Code Editor](https://ourcodeworld.com/apps/our-code-editor)
--   [Projects](http://docs.ourcodeworld.com/projects)
--   [Policies](javascript:void(0);)
-    -   [Comment policy](https://ourcodeworld.com/comments-policy)
-    -   [Privacy policy](https://ourcodeworld.com/privacy-policy)
--   [Inquiries](javascript:void(0);)
-    -   [About](https://ourcodeworld.com/about)
-    -   [Advertise with us](https://ourcodeworld.com/advertise-with-us)
-    -   [Contact](https://ourcodeworld.com/contact)
-    -   [Write for us](https://ourcodeworld.com/write-for-us)
--   [Login](https://ourcodeworld.com/login)
-
-**

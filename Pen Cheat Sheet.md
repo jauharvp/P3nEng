@@ -1,4 +1,4 @@
-### Check IP based on the interface
+###1. Check IP based on the interface
 
 ```
 ip a | grep "<interface>" | grep "inet" | awk '{print $2}'

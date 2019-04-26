@@ -5,7 +5,9 @@ We have an ideal way to analyse the traffic (egress) from our instance to make o
 ## So here is the best practice for the analysing traffic.
 ### Install tcpdump and whois
 
- ```sudo apt-get update sudo apt-get install tcpdump sudo apt-get install whois
+ ```
+ sudo apt-get update sudo apt-get install tcpdump sudo apt-get install whois
+
  ```
 ### Capture 10000 packets with tcpdump and save it to /tmp/nw.cap
 

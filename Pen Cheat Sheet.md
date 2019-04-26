@@ -21,3 +21,11 @@ find / -user root -perm -4000 -exec ls -ldb {} \;
 find / -perm -u=s -type f 2>/dev/null
 
 ```
+
+
+### 4. Check the process running under "root" user.
+```
+ps aux | grep "root"
+ps -ef | grep "root"
+
+```

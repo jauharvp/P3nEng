@@ -10,6 +10,6 @@ nmap -p- -sV -A -oA ```Output_File``` ```<IP>```
 
 nikto -host ```<IP/Host>``` --output --Format ```type of output/ html / text```
 
-### Dirs3arch - Directory listing - If Web service is enabled on default or custom port###
+### Dirs3arch - Directory listing - If Web service is enabled on default or custom port ###
 
 python3 dirs3arch.pu -u ```hostname/ web url:port``` ----simple-report=```SIMPLEOUTPUTFILE```

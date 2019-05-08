@@ -8,7 +8,7 @@ nmap -p- -sV -A -oA ```Output_File``` ```<IP>```
 
 ### 3. Web Scanner using Nikto - If Web service is enabled on default or custom port ###
 
-nikto -host ```<IP/Host>``` --output --Format ```type of output/ html / text```
+nikto -host ```<IP/Host>:port``` --output --Format ```type of output/ html / text```
 
 ### 4. Dirs3arch - Directory listing - If Web service is enabled on default or custom port ###
 
